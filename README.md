@@ -1,13 +1,13 @@
 # Hi, I'm Alessandro Caforio
 
 **M.Sc. Politics and Policy Analysis** at Bocconi University, Milan.
-Research Assistant at the [Dondena Centre for Research on Social Dynamics and Public Policy](https://www.dondena.unibocconi.it/).
+1
 
 ---
 
 ### Research Interests
 
-I study how economic shocks reshape political behavior. My Master's thesis investigates the causal effect of automation-driven task displacement on political ideology in the United States, using shift-share identification and two-way fixed effects on panel data (2006-2022).
+I study how economic shocks reshape political behavior. My Master's thesis investigates the causal effect of automation-driven task displacement on political ideology in the United States, using shift-share identification and two-way fixed effects on repeated cross-sections (2006-2022).
 
 **Fields**: Applied econometrics, causal inference, computational social science, political economy.
 
